@@ -1,6 +1,6 @@
 <h1><strong>HI THERE!</strong>👋</h1> 
 
-[LinkedIn](https://www.linkedin.com/in/mateus-brunelli-7a7874268) - [Website](https://kreazzo.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/mateus-brunelli) - [Website](https://kreazzo.vercel.app/)
 
 <h2>My name is Mateus Brunelli</h2>
 (JavaScript | CSS | HTML | Tailwind | Figma)🚀
